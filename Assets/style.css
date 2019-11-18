@@ -1,0 +1,85 @@
+body {
+
+    background-color: #F3D201;
+    font-family: sans-serif;
+    width: 1200px;
+    margin-left: 120px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+.header {
+    width: 1000px;
+    overflow: hidden;
+}
+
+.content {
+    padding: 15px;
+}
+
+.leftcontent {
+    float: left;
+    width: 500px;
+}
+
+section {
+    padding: 15px;
+}
+
+.p1 {
+    font-family: cursive;
+
+}
+
+
+.l1 {
+    height: 42px;
+    width: 46px:
+}
+
+.l2 {
+    height: 42px;
+    width: 46px;
+
+}
+
+.l3 {
+    height: 42px;
+    width: 46px:
+}
+
+
+.rightcontent {
+    float: right;
+    margin-right: 180px;
+
+
+}
+
+.headerlogo img {
+    float: left;
+    width: 75px;
+    height: 20px;
+    margin-left: 30px;
+}
+
+.menu {
+    float: right;
+}
+
+.footer {
+    height: 300px;
+    width: 1000px;
+    position: absolute;
+    left: 48%;
+    top: 100%;
+}
+
+.footer img {
+    width: 250px;
+}
